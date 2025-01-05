@@ -1,0 +1,93 @@
+{
+  "year": 2023,
+  "programs": [
+    {
+      "title": "🧑 🎤Reactivisits",
+      "intro": "Reactivisits란 React의 혁신적인 기술과 개념을 추구하는 사람들의 모임이라는 뜻으로 유데미 강의 중 <하나인 한입 크기로 잘라 먹는 리액트>를 들으며 React.js의 사용법과 이를 활용하여 나만의 ‘감성 일기장’을 만들어보는 프로젝트 진행",
+      "goal": "Node.js와 React의 기본을 학습하고, 나만의 '감성 일기장' 제작 후 배포까지",
+      "period": "2023.05.01 ~ 2023.06.30",
+      "content": "유데미 강의인 하나인 <한입 크기로 잘라 먹는 리액트> 수강을 바탕으로 진행\n매 주차별 할당량을 각자 수행\n각자 매주 학습한 내용은 깃허브 혹은 블로그 한 곳을 정해 정리\n스터디 전 2에서 정리해 올린 곳의 주소를 정해진 스터디 구글 드라이브에 첨부\n스터디 할 때 각자 정리한 것을 토대로 서로 질의응답하며 느낀점, 배운점 등을 말하는 시간을 가짐\n만약 해당 주차의 과제를 완료하지 못했을 경우, 다음 스터디에 전 과제에서 완료하지 못했던 내용에 대해 발표를 진행",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/KakaoTalk_20230812_001059590_05.png?alt=media&token=d40e5c2c-d700-4f33-98f4-1995ac9ec2af",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/KakaoTalk_20230812_001059590_04.png?alt=media&token=d48d7c87-9d81-4f13-9078-34070245a9c4",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/KakaoTalk_20230812_001059590_03.png?alt=media&token=e61e7362-837a-4f2c-8497-9061a3b557fc",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/KakaoTalk_20230812_001059590_02.png?alt=media&token=41560ead-8b7d-4e5e-83ac-142fb7cb6d8d",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/KakaoTalk_20230812_001059590_01.png?alt=media&token=ba779cdd-cee2-4e9e-b945-ba9e4d9e99db"
+      ]
+    },
+    {
+      "title": "🎮유니티/C# 중급자를 위한 RPG 게임 개발하기",
+      "intro": "유데미의 강의를 보며 RPG 게임을 따라 만들어보고 유니티 게임 개발 실력 향상시키기",
+      "goal": "RPG 게임 개발 경험 및 유니티3d와 C#의 중급과정 공부",
+      "period": "23.5.10 ~ 23.6.14",
+      "content": "유니티 프로젝트 생성 및 에셋 팩 불러오기\nTerrain을 이용한 간단한 샌드박스 레벨 구현\nNav Mesh Agent를 이용한 플레이어 움직임 구현\n캐릭터 움직임 애니메이션 적용\n기초적인 전투 시스템 구현\n적 AI 구현\nCinemachine 학습\nScene 관리 학습\n저장 시스템 학습",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%EA%B7%B8%EB%A6%BC1.png?alt=media&token=e281c076-b9dd-4659-af4f-fbfb4a4334bc",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%EA%B7%B8%EB%A6%BC2.png?alt=media&token=f07619cd-77ae-49f2-964b-c65e88845cff",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%EA%B7%B8%EB%A6%BC3.png?alt=media&token=ff784e38-f5d5-4407-bf06-c4ceea36c2d2",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%EA%B7%B8%EB%A6%BC4.png?alt=media&token=cbef071a-7318-4899-a8de-595949a0a616"
+      ]
+    },
+    {
+      "title": "🕹️삐슝빠슝 유니티",
+      "intro": "게임에 대한 기초적인 첫 걸음을 디디는 것을 목표로 하는 게임 기초 스터디입니다.\n게임 프로그램을 ‘유니티’를 사용하며 2D 게임을 만드는 것을 먼저 공부합니다.\n기본적으로 ‘유데미’ 강의를 통해 기본적인 지식을 배우고 실습을 하며, 관련된 게임을 제작하는 것으로 배움을 복습하고 더 나아가 자신의 게임을 만들어 보는 것이 최종 목표입니다. ",
+      "goal": "유데미 강의와 유니티를 사용해 2D 게임의 기초를 공부하고 자신의 게임을 만드는 스터디입니다.",
+      "period": "2023.05.01 ~ 2023.06.30",
+      "content": "1주차 : 개요 및 설정 + Deliver Driver + 스노우 보더\n2주차 : 퀴즈 마스터\n3주차 : 타일바니아\n4주차 : 레이저 디펜더\n5주차 : 개임 개발 지속을 위한 방법 + 전체적 내용 정리.\n6주차 : 스터디 내용 복습 및 총평&피드백",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/Deliver_Driver.png?alt=media&token=2fe5d3f1-63cc-4040-8d57-123a7a7fa856",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%ED%83%80%EC%9D%BC_%EB%B0%94%EB%8B%88%EC%95%84_2.png?alt=media&token=d8fc5b3f-0aad-447f-8860-30f968be8f27",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%ED%83%80%EC%9D%BC_%EB%B0%94%EB%8B%88%EC%95%84.png?alt=media&token=9807f20c-923b-451b-b67e-1530fb5e6d02",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%ED%80%B4%EC%A6%88_%EB%A7%88%EC%8A%A4%ED%84%B0.png?alt=media&token=cc01e928-6950-4aad-be3b-b759aa1f7f19",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-54c6c.appspot.com/o/%EC%8A%A4%EB%85%B8%EC%9A%B0_%EB%B3%B4%EB%8D%94.png?alt=media&token=b5d4f5ba-cacd-401b-9df2-227c6ef1da87"
+      ]
+    },
+    {
+      "title": "📡django 백앤드/서버",
+      "intro": "장고를 찍먹해봅시다",
+      "goal": "Python으로 작성된 Django Web Framework를 통해 Back-end 서버 개발에 대한 학습 및 tutorial 진행",
+      "period": "2023.10.10 ~ 2023.12.12",
+      "content": "3주차 : Django 공식 튜토리얼 part 1~3\\n4주차 : 점프투장고 2-01~2-05\\n5주차 : 점프투장고 2-06~2-10\\n 6주차 : 점프투장고 3-01~3-07\\n7주차 : 점프투장고 3-08~3-10\\n8주차 : 점프투장고 3-11~3-14\\n9주차 : 장고로 미니 프로젝트 만들기 – 개인",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20django%2Fdango%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%203.png?alt=media&token=f064f0cb-546b-44d3-96d6-8fc1f7ddac1d",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20django%2Fdjango%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%201.png?alt=media&token=5af9833c-9f68-416c-b034-cca4e9c4f6ca",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20django%2Fdjango%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%202.png?alt=media&token=21d22203-9f54-4e1f-aaf4-f3e0c74adcb1"
+      ]
+    },
+    {
+      "title": "📺99Study",
+      "intro": "TypeScript와 React로 넷플릭스를 클론코딩 해보자!",
+      "goal": "TypeScript와 TSX를 이용해 React Framework를 학습함. Netflix Clone Coding을 통해 실전 코딩 경험 목표",
+      "period": "2023.09.19 ~ 2023.12.05",
+      "content": "1주차 : React와 node js 설치 및 Create-react-app 명령어를 사용해서 react-app을 설치\\n2주차 : Vanilla js로 숫자맞추기 게임을 만들면서 느꼈던 javascript의 단점이었던 type지정에 관한 문제점을 typescript가 어떻게 보완했는지에 대해 공부\\n3주차 : React의useEffect와 useState 등 기본 문법과 메소드 들을 배우면서 이전의 숫자 맞추기 게임을 React로 다시 만들어보고, React의 css라이브러리인 styled-component 사용 방법 공부\\n4주차 : map함수를 활용하여 Json데이터를 다루기\\n5주차 : State를 활용해서 event를 구현하기\\n6주차 : 컴포넌트를 활용하기\\n7주차 : React-router-dom 라이브러리를 활용하기\\n8주차 : Routing을 통해서 modal을 오버레이 형식으로 띄우기\\n9주차 : 지금까지 만든 웹사이트를 배포하기",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2F%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%202.jpg?alt=media&token=26bb20ad-af02-4283-888e-96c384c28705",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2F%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%201.png?alt=media&token=e849d733-c34c-4b5e-9503-40074cd79da6",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2FB099BB74-8FF2-4896-B21D-356DFE07C622.png?alt=media&token=784d0ca1-1b04-4932-a8ab-138a48433df7",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2F3DFFAFC1-E738-4B24-B89D-F6EA5E44FFC1.png?alt=media&token=84ff77d6-8a02-41bc-a7a2-6d73a2516a30"
+      ]
+    },
+    {
+      "title": "🐸개굴캐글개굴",
+      "intro": "AI 별거 아니에요~",
+      "goal": "머신러닝의 기본구조와 알고리즘에 대해 학습하고, Data 분석을 통한 실전 data set 모델링 실습 목표",
+      "period": "2023.09.25 ~ 2023.11.28",
+      "content": "1주차 : pandas, numpy, seaborn 기본 익히기\\n2주차 : 데이터 다루기, 코랩 및 환경설정\\n3주차 : pandas,numpy, seaborn지식 공유\\n4주차 : 회귀 알고리즘과 모델 규제\\n5주차 : 다양한 분류 알고리즘\\n6주차 : 혼자 공부하는 딥러닝/머신러닝 섹션4 트리학습 알고리즘\\n7주차 : 주성분 분석, 비지도 학습\\n8주차 : 연습 데이터(타이타닉) 분석 및eda 진행\\n9주차 : 연습데이터 분석및 eda 진행 - diabetes",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20ai%2Fai%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%201.png?alt=media&token=19418e53-2a4c-4e19-a663-52781e45a492",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20ai%2Fai%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%202.png?alt=media&token=b224dbe4-659d-4795-bb64-efd449f5c89d"
+      ]
+    },
+    {
+      "title": "📲Flutter 팀",
+      "intro": "Flutter로 웹툰을 만들어보아요",
+      "goal": "Google에서 개발한 Dart, Flutter에 대한 학습을 통해 Application 개발 능력 향상과 경험 습득. Toonflix라는 웹툰 필터링 app 개발 프로젝트 목표.",
+      "period": "2023.11.03 ~ 2023.11.24",
+      "content": "1주차 : Nomad Coder의 \"Flutter로 웹툰 앱 만들기\" 강의 챕터 4, 5 수강\\n2주차 : Nomad Coder의 \"Flutter로 웹툰 앱 만들기\" 강의 챕터 6.0 ~ 6.7 수강\\n3주차 : 실습한 Pomodoro App의 작동 원리와 구현 과정을 자세히 복습함으로써 Flutter의 위젯과 Stateful Widget의 Lifecycle 등에 관한 개념을 견고히 함\\n4주차 : Nomad Coder의 \"Flutter로 웹툰 앱 만들기\" 강의 6.8 ~ 6.13까지 수강\\n5주차 : Nomad Coder의 \"Flutter로 웹툰 앱 만들기\" 강의 6.14 ~ 6.18(완)까지 수강",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20%ED%94%8C%EB%9F%AC%ED%84%B0%2F%ED%94%8C%EB%9F%AC%ED%84%B0%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%201.jpg?alt=media&token=22ffb62d-3caf-4979-9543-d38ea85ee264",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/2023-2%20%EC%8A%A4%ED%84%B0%EB%94%94%2F2023-2%20%ED%94%8C%EB%9F%AC%ED%84%B0%2F%ED%94%8C%EB%9F%AC%ED%84%B0%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%82%AC%EC%A7%84%202.jpg?alt=media&token=f435df41-bba7-4452-a177-853f27fe1c50"
+      ]
+    }
+  ]
+}

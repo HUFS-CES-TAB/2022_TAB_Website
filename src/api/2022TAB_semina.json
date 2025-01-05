@@ -1,0 +1,135 @@
+{
+  "year": 2022,
+  "programs": [
+    {
+      "title": "🧑‍🎤 VampireSurvivors 따라잡기(유니티의 기초 공부하기)",
+      "intro": "VampireSurvivors의 기능들을 따라 만들어보며 유니티 공부하기",
+      "goal": "게임 개발 경험 및 유니티2d와 C#의 기초 공부",
+      "period": "22.8.6 ~ 22.11.29",
+      "content": "시간 : 매주 화요일 5:30 ~ ,약 50분 진행(온/오프라인)\n장소 : 백년관 스터디룸\n내용 : 저번 과제 피드백, 함수 설명 및 다음 과제 안내",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/u_1.png?alt=media&token=52308898-fc1f-4310-9a86-d04357dd7787",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/u_2.png?alt=media&token=56310a49-1537-431e-863d-9ade5b7e47f8",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/u_3.png?alt=media&token=9f8be375-325c-4b2b-9954-bd9fa2592127"
+      ]
+    },
+    {
+      "title": "⚛️ 웹 기초부터 React 찍먹까지",
+      "intro": "HTML, CSS, JS 기초에 대해서 공부하고, 간단한 프로젝트까지 개발해보는 스터디",
+      "goal": "HTML, CSS, JS를 완벽하게 학습하고 웹 부수기 + React 경험해보기",
+      "period": "22.08.09 ~ 22.11.27",
+      "content": "시간 : 매주 목요일 5:30 ~ ,약 30분 진행(온/오프라인)\n장소 : TAB 학회방\n\n생활코딩, 노마드코더의 온라인강의를 듣고 학습하고, 공부한 부분에 대해서 개발 블로그에 정리 / 스터디 시간에 발표하는 시간을 가집니다.\n매주 배운 내용을 응용해서 과제를 수행합니다.\n\n✏️스터디 내용\nHTML & Internet\nCSS\nJavascript\nReact\nReactJS로 영화 웹 서비스 만들기\n",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/fe_6.png?alt=media&token=fcdd3b8c-af1f-4a9b-8212-d270f227ced6",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/fe_1.png?alt=media&token=b2f14ffa-6ab2-4be7-86f8-6518e1eec6da",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/fe_2.png?alt=media&token=738651b3-418e-4be3-887b-0f2c618ef6f4",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/fe_3.jpg?alt=media&token=7440a89d-db02-45f5-bedd-04c361d08a4b",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/fe_4.jpg?alt=media&token=daa4a4a6-4455-4ea8-9d5a-beb5c204164b",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/fe_4.png?alt=media&token=fd8b68b9-77b4-4016-ac1b-cec4d59121d2",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/fe_5.png?alt=media&token=2fb60d91-da12-4815-926f-91b191cef9ab"
+      ]
+    },
+    {
+      "title": "🤖 인공지능 정복하기",
+      "intro": "머신러닝 & 딥러닝에 대해 공부 후, TensorFlow로 프로젝트 진행",
+      "goal": "인공지능과 친해지고 찐친되기!",
+      "period": " 2022.08.11 ~ 2022.11.30 ",
+      "content": "시간 : 매주 수 or 금요일 1:30 ~ ,약 60분 진행(온/오프라인)\n장소 : TAB 학회방\n\n스터디 내용 : \n기본적인 Machine Learning 의 용어와 개념\nTensorFlow 설치방법 및 기본적인 operations\nLinear Regression\nmulti-variable linear regression\nLogistic Classification\nSoftmax classifier\nlearning rate, Overfitting, Regularization\nTraining/Testing data set\n딥러닝의 기본 개념: 시작과 XOR 문제, Back-propagation\nReLU\nDropout과 앙상블\nConvNet\n RNN \n\n        \n22-2학기 HUFS H-UP 4기 우수상(3등) : 김은비, 신수민",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/ml_1.png?alt=media&token=a05ddba9-e53c-41e5-814f-e747b19bd45d",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/ml_2.png?alt=media&token=c8fbe1eb-de75-4a01-ad1d-490552cf0737",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/ml_3.png?alt=media&token=471ce119-eb65-4423-9823-54c73255a7e8",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/ml_4.png?alt=media&token=8f10d214-e56a-4401-b94b-ea414fa4f112",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/ml_5.png?alt=media&token=7e56de89-65a3-45e8-95e3-83890de6c926"
+      ]
+    },
+    {
+      "title": "📱 TAB(Team Android Basic)",
+      "intro": "안드로이드 앱 개발에 관한 기초를 학습 후 실전에 옮길 수 있는 간단한 코드들을 적용해보며 안드로이드 스튜디오 사용법 익히기",
+      "goal": "안드로이드 스튜디오의 다양한 툴 사용법을 익히고 활용하기\n협업과정에서 필수적인 깃허브와 소스트리 사용에 대한 학습 및 체화\n",
+      "period": "2022.08.02 - 2022.11.30",
+      "content": "대면장소: 격주 월요일 오후 6시 TAB 학회방, 썸카페\n\n스터디 내용 - 비대면\n구름 무료 강의를 수강하며 진도에 따른 학습과정 보고 및 피드백\n구글 미트를 통해 화상 스터디를 진행하며 학습 내용 피드백\n\n스터디 내용 - 대면\n-깃허브와 소스트리를 이용한 협업 기반 마련\n-앱 개발 주제 브레인스토밍(앱에 필수적인 기능 네 가지 정도를 고안)\n-기능 구현에 대한 가능성 검토 및 개발 업무 분담\n-구현기능을 각자 맡아 구현 착수 (대면 스터디때 중간보고)\n-구현된 기능 정리 및 중간보고 피드백\n-수정사항 및 버그 점검\n",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/a_1.png?alt=media&token=31964d35-f4bb-4172-ba93-fc210a767842",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/a_2.png?alt=media&token=321ab496-372e-4ec4-9bee-97ac338da898",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/a_3.png?alt=media&token=c2abb3ea-e870-4b47-b88b-1e4f061611d0"
+      ]
+    },
+    {
+      "title": "🧑‍💻 MacBook Owners (iOS)",
+      "intro": " iOS App을 만들 수 있는 기초부터 Application 제작까지\r",
+      "goal": "Swift의 기본 문법을 학습함, Xcode의 이용 방법을 학습함, 학습한 내용을 토대로 Application을 제작함.",
+      "period": "2022학년 여름방학 ~ 2022학년 2학기",
+      "content": "온라인 iOS강의 수강을 통해 Swift 기초 문법을 익히고, Xcode가 어떤 방식으로 동작하는지 학습함. 또한, 이를 이용해 간단한 Application 등을 제작함.\n 세부학습내용: \n View & Window \n View & Controller \n Alert Controller \n Handling Image and Color \n Handling Text and Font \n Handling Table View ",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC7.png?alt=media&token=6fb9a3d6-0c0f-46e4-ae2f-05c20dfcbb13",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC8.png?alt=media&token=e6cdc763-f805-4246-b9da-32e4f6a1bd3e",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC9.png?alt=media&token=5000a9d1-2d7c-4d05-a3b6-9a8c0393199c"
+      ]
+    },
+    {
+      "title": "🤍 flutter session - flutter로 인스타그램 만들기",
+      "intro": "최근 많은 관심을 받는 flutter! 인스타그램 뷰를 만들어보면서 같이 찍먹해볼래?",
+      "goal": "Flutter가 무엇인지 알아보고, 기초를 공부해보자",
+      "period": "2022.05.10 ~ ",
+      "content": "플러터 세션은 google meet을 통해 온라인으로 진행되었습니다.\n공부한 내용은 다음과 같습니다.\n\nFlutter의 UI\nFlutter 위젯 생성 및 위젯 데이터 변경 적용\nStatelessWidget\nStatefulWidget , State\n라우터\n\n기초 개념을 배우고 인스타그램 뷰를 예시로 페이지를 구현해보았어요!\n구현한 페이지는 Discord에 제출하고 서로 피드백을하는 시간을 가졌습니다.",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/KakaoTalk_20230308_114230019.png?alt=media&token=3e51c42a-3b73-41ae-9204-e920cd5bf18a",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/KakaoTalk_20230308_114230822.png?alt=media&token=a473f895-1a36-4928-bf21-77a339391bf0",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/KakaoTalk_20230308_114231976.png?alt=media&token=5a22b5ec-27e7-4574-9a88-d3c523e09327",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/KakaoTalk_20230308_122400203.png?alt=media&token=9fead034-f310-4f10-a4b1-7639480fd009"
+      ]
+    },
+    {
+      "title": "😋 Python을 이용해서 Backend 찍먹해보기",
+      "intro": "Python을 이용한 웹 서비스 정복기",
+      "goal": "Python 기반의 Web Framework인 Django를 이용하여 웹 서비스 제작",
+      "period": "2022/08/03 ~ 2022/11/30",
+      "content": "Python 워밍업\nDjango 공식문서 튜토리얼 진행\nJump to Django 튜토리얼 진행\n초성 궁합 계산 서비스 제작",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/be_1.png?alt=media&token=81bd4bca-276d-4d9e-84a2-64ed3f1ec482",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/be_2.png?alt=media&token=d69cd9f2-8ddc-4ee6-827e-94b896155120",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/be_3.png?alt=media&token=52762773-72ee-4de0-a86a-94e21c1a2cd5",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/be_4.png?alt=media&token=261f0f93-1903-4b95-89b2-28d873f2ba4c",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/be_5.png?alt=media&token=1d596c03-ee76-4b8f-8246-3ab29dc4fb1e",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/be_6.png?alt=media&token=01af54f6-4e8e-41ac-bfb7-dafa532f6e7e",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/be_7.png?alt=media&token=3f74b4a4-262d-41e9-84e1-193b66c1350b"
+      ]
+    },
+    {
+      "title": "✏️ TAB 시험기간 집중 스터디",
+      "intro": "시험기간 2주전 집중해서 공부를 할 수 있는 시간을 가져봅시다🔥",
+      "goal": "같은 수업을 듣고 있는 학우분들과 모르는 문제에 대해서 같이 고민도 해보고 각자 공부도 하면서 서로에게도, 개인에게도 도움을 주고 받는 시간 가지기🙌",
+      "period": "2022.04.12, 19 (이틀간)",
+      "content": "4.12 & 4.19 화요일 이틀간 19시부터 2시간 동안 진행했습니다.\n스터디는 인원수에 따라 게더타운이이나 디스코드 둘 중 하나의 형태이고 시험기간에 하는 스터디인 만큼 자율적으로 진행하였습니다.",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/KakaoTalk_20230309_093403578.png?alt=media&token=019dc8f4-005f-484e-ac34-fd97677bb330",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/KakaoTalk_20230309_093403578_01.png?alt=media&token=fbbd591d-dd5f-49c2-9bcd-48f0aa998b4b"
+      ]
+    },
+    {
+      "title": "🐤 TAB 40기 OT",
+      "intro": "TAB 40기 신입생들을 대상으로 첫 OT를 진행합니다.",
+      "goal": " TAB 활동 방향에 대해서 소개하고 추천 콘텐츠를 공유",
+      "period": "2022.03",
+      "content": "신입부원 OT 및 코딩 문제 사이트 / 코딩 유튜브 채널 / 강의 사이트 추천을 진행",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC1.png?alt=media&token=d7cde0cd-8dc9-470e-ad02-6f0bc40cf082",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC2.png?alt=media&token=81246a45-4058-440c-9ad1-4b655bc37298",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC3.png?alt=media&token=aa753ac5-e5be-4085-83a8-0a65c4600f6c"
+      ]
+    },
+    {
+      "title": "🐔 TAB 40기 신입생 세미나",
+      "intro": "TAB 40기 신입생을 대상으로 한 분야별 세미나 ",
+      "goal": " 40기 신입생들을 대상으로 분야별 세미나를 진행합니다.",
+      "period": "2022.03.23, 29",
+      "content": "📌 1주차(OT) 2022. 03. 15.: 각자 자기소개를 하고, 학회장과 부학회장이 세미나의 진행방향을 간략하게 설명했습니다. 추가로 PPT를 활용하여 코딩 문제를 풀며 코딩 실력을 증진할 수 있는 코딩 문제 사이트, 코딩 개념을 익힐 수 있는 무료 코딩 유튜버, 코딩 강의 사이트 등 추천해줬습니다. 마지막으로 신입생들에게 ‘방학을 잘 활용하면 좋다’ 등의 조언을 해주며 마무리했습니다.\n📌 2주차(권현재 님-비공개) 2022. 03. 23. 18pm.: 웹(Full-Stack) - 시장의 웹 서비스 기술 설명과 로드맵 추천\n📌 3주차(이병헌 님) 2022. 03. 29. 19pm: 게임 - 게임 개발 소개\n📌 4주차(서다원 님) 2022. 04. 05 19pm: 깃허브(Github) - 깃과 깃허브란? 입문자를 위한 기초 익히기\n📌 중간고사 기간 2022. 04. 20. ~ 2022. 04. 26.\n📌 5주차(송서영 님) 2022. 05. 03. 19pm.: 앱(iOS) - ios를 곁들인 진로 설명\n📌 6주차(김민서 님) 2022. 05. 10. 19pm: 앱(Flutter) - 안드로이드, iOS 동시에 개발할수있다고?? Flutter로 앱 개발하기\n📌 7주차(김은비 님) 2022. 05. 24. 19pm: 머신러닝 - 머신러닝 소개\n📌 8주차(이보민, 신수민) 2022. 05. 31. : 웹(html/css) 실습",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC4.png?alt=media&token=afd64040-defe-4e15-80b9-da9629b604b9",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC5.png?alt=media&token=2fe38343-61f7-4929-bcfa-a65ee0f97f6c",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a3588.appspot.com/o/%EA%B7%B8%EB%A6%BC6.png?alt=media&token=0cc005a4-b2ef-4936-a400-656c7d83d20f"
+      ]
+    }
+  ]
+}
